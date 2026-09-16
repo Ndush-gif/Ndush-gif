@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi, I'm Catherine Nduku
 
-<!--
-**Ndush-gif/Ndush-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- I'm currently learning programming.
+- I'm interested in Web development, data science and AI.
+- I'm looking to collaborate on beginner-friendly open source projects.
 
-Here are some ideas to get you started:
+## Skills I'm Building
+- Git and GitHub
+- Javascript, HTML/CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+
+
+## How to Reach Me
+- Email: ndukucatherine211@gmail.com
+- LinkedIn: (https://www.linkedin.com/feed/)
