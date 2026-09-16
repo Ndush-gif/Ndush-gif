@@ -1,36 +1,36 @@
 # Headings
 ## My Learning Goals
 ### This Semester
-# Text Formating
+## Text Formating
 **Scientific names** `are` *italized*
-# links
+## links
 [Link text](https://github.com/Ndush-gif/Ndush-gif.github.io/tree/main)
-# Lists
+## Lists
 -Javascript
 -HTML
   -Python
   1. Click add file and create a new repository
   2. Name your field and Edit
   3. Click commit changes
-# Tables
+## Tables
 | Tool       | Purpose      | Link   |
 |------------|-----------   |----------|
 | Javascript |  Interactions|[link text]
 | HTML       | Structure    |[Link text]
-# Task List
+## Task List
 -[x] Enroll We Can Academy
 -[x] Set up a github account
 -[ ] Javascript
 -[ ] Learn web development
-# Code Block
+## Code Block
 ```python
 print("Hello, world!")
 ```
-# Blockquote
+## Blockquote
 >If it works, don't touch it.
-# About Me
+## About Me
 **Call me** *Ndush-gif* **on** *github*
-## learned
+### learned
 -Text formating
 -Links
 -List
