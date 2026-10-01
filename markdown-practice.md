@@ -6,11 +6,11 @@
 ## links
 [Link text](https://github.com/Ndush-gif/Ndush-gif.github.io/tree/main)
 ## Lists
-** Thing I want to learn**
+### Thing I want to learn
 -Javascript
 -HTML
   -Python
--** Steps to make a commit in Git**
+### Steps to make a commit in Git
   1. Click add file and create a new repository
   2. Name your field and Edit
   3. Click commit changes
