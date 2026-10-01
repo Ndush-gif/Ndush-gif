@@ -1,29 +1,30 @@
 # Headings
 ## My Learning Goals
 ### This Semester
-## Text Formating
-**Scientific names** `are` *italized*
-## links
-[Link text](https://github.com/Ndush-gif/Ndush-gif.github.io/tree/main)
+## Text Formatting
+I am learning **Javascript**, which is *fun* and I use `console.log()` to test it.
+## Links
+- [My github profile](https://github.com/Ndush-gif)
+- [MDN Web Docs](https://developer.mozilla.org)
 ## Lists
-### Thing I want to learn
--Javascript
--HTML
-  -Python
+### Things I want to learn
+- Javascript
+- HTML
+- Python
 ### Steps to make a commit in Git
-  1. Click add file and create a new repository
-  2. Name your field and Edit
-  3. Click commit changes
+  1. Make changes on  your file
+  2. Stage the changes `with git add`
+  3. Click `commit changes`
 ## Tables
 | Tool       | Purpose      | Link   |
 |------------|-----------   |----------|
-| Javascript |  Interactions|https://developer.mozilla.org/en-US/docs/Web/JavaScript]
-| HTML       | Structure    |https://developer.mozilla.org/en-US/docs/Web/HTML]
+| Javascript |  Interactions|[MDN JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)|
+| HTML       | Structure    |[MDN HTML]|(https://developer.mozilla.org/en-US/docs/Web/HTML)|
 ## Task List
--[x] Enroll We Can Academy
--[x] Set up a github account
--[ ] Javascript
--[ ] Learn web development
+- [x] Enroll at We Can Academy
+- [x] Set up a github account
+- [ ] Javascript
+- [ ] Learn web development
 ## Code Block
 ```python
 print("Hello, world!")
@@ -31,10 +32,10 @@ print("Hello, world!")
 ## Blockquote
 >If it works, don't touch it.
 ## About Me
-**Call me** *Ndush-gif* **on** *github*
+**Call me** *Ndush-gif* on *Github*
 ### learned
--Text formating
--Links
--List
--Code blocks
-> ~~Do it anyway even when scared~~
+- Text formatting
+- Links
+- List
+- Code blocks
+> ~~Scared?~~ Do it anyway, even when scared.
