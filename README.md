@@ -10,7 +10,7 @@ Hi, I'm Catherine Nduku
 - Javascript, HTML/CSS
 
 ## Current Projects
-
+-Community hub web development.
 
 ## How to Reach Me
 - Email: ndukucatherine211@gmail.com
