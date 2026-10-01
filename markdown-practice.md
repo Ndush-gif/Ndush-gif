@@ -19,7 +19,7 @@ I am learning **Javascript**, which is *fun* and I use `console.log()` to test i
 | Tool       | Purpose      | Link   |
 |------------|-----------   |----------|
 | Javascript |  Interactions|[MDN JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)|
-| HTML       | Structure    |[MDN HTML]|(https://developer.mozilla.org/en-US/docs/Web/HTML)|
+| HTML       | Structure    |[MDN HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)|
 ## Task List
 - [x] Enroll at We Can Academy
 - [x] Set up a github account
