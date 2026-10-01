@@ -38,4 +38,4 @@ print("Hello, world!")
 - Links
 - List
 - Code blocks
-> ~~Scared?~~ Do it anyway, even when scared.
+> ~~Scared?~~ Do it anyway.
