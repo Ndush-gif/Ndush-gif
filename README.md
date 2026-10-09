@@ -14,4 +14,4 @@ Hi, I'm Catherine Nduku
 
 ## How to Reach Me
 - Email: ndukucatherine211@gmail.com
-- LinkedIn: (https://www.linkedin.com/feed/)
+
